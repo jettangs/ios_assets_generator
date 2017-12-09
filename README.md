@@ -2,6 +2,7 @@
 A command tool to generate app icon, launch image and full screen image.
 
 Usage:
+
 `cd generator`
 
 generate app icon: `node app_icon.js app_icon.png`
