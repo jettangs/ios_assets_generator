@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsfmt": "^0.5.3",
+    "sharp": "^0.18.4"
+  }
+}
